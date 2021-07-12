@@ -1,0 +1,7 @@
+/home/martin/Documents/LowTheoremStudies/DetectorSimulation/Solenoid/SolenoidSimulation/build/CMakeFiles/install/strip.dir
+/home/martin/Documents/LowTheoremStudies/DetectorSimulation/Solenoid/SolenoidSimulation/build/CMakeFiles/install/local.dir
+/home/martin/Documents/LowTheoremStudies/DetectorSimulation/Solenoid/SolenoidSimulation/build/CMakeFiles/install.dir
+/home/martin/Documents/LowTheoremStudies/DetectorSimulation/Solenoid/SolenoidSimulation/build/CMakeFiles/list_install_components.dir
+/home/martin/Documents/LowTheoremStudies/DetectorSimulation/Solenoid/SolenoidSimulation/build/CMakeFiles/rebuild_cache.dir
+/home/martin/Documents/LowTheoremStudies/DetectorSimulation/Solenoid/SolenoidSimulation/build/CMakeFiles/edit_cache.dir
+/home/martin/Documents/LowTheoremStudies/DetectorSimulation/Solenoid/SolenoidSimulation/build/CMakeFiles/exampleB2a.dir

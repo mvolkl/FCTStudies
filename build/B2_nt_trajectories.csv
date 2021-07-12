@@ -1,0 +1,8 @@
+#class tools::wcsv::ntuple
+#title trajectory ntuple
+#separator 44
+#vector_separator 59
+#column int eventID
+#column int trackID
+#column double initialMomentum
+0,1,109.743
